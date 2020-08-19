@@ -2,8 +2,7 @@
 <img src="https://i.imgur.com/q9MHIos.jpg" />
 </a>
 
-# Rainforest
-
+Hi, I'm Rainforest, a frontend developer and a master student [@NTU CAECE](https://www.caece.net/)
 
 <!--
 **r08521610/r08521610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
