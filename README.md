@@ -4,9 +4,9 @@
 
 ## Hi, I'm Rainforest 🌧🌲, a frontend developer🧑🏻‍💻 and a master student👨🏻‍🎓 [@NTU CAECE](https://www.caece.net/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r08521610&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainforest-dev&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r08521610&theme=nord&show_icons=true&exclude_repo=icg2020&hide=css,html,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainforest-dev&theme=nord&show_icons=true&exclude_repo=icg2020&hide=css,html,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 
