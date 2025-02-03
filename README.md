@@ -37,9 +37,9 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rainforest-dev&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rainforest-dev&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true&exclude_repo=icg2020,ICG2020-HW1&hide=shell)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rainforest-dev&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rainforest-dev&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rainforest-dev&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true&layout=compact&exclude_repo=icg2020,ICG2020-HW1&hide=shell)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rainforest-dev&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
