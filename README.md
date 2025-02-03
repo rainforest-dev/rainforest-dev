@@ -42,7 +42,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rainforest-dev&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rainforest-dev&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rainforest-dev&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rainforest-dev&icon=1&color=1)](https://visitcount.itsvg.in)
